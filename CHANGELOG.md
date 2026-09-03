@@ -1,5 +1,17 @@
 # Changelog
 
+## [5.17.0](https://github.com/Gaisberg/streamnzb/compare/v5.16.1...v5.17.0) (2026-09-03)
+
+
+### Features
+
+* **search:** replace search modes and scopes with attempt-list search plans ([c360108](https://github.com/Gaisberg/streamnzb/commit/c360108068b49ea6a37694279900c21d373dcce7)), closes [#252](https://github.com/Gaisberg/streamnzb/issues/252)
+
+
+### Bug Fixes
+
+* **stats:** count unique indexer hits per deduplicated release ([25bda56](https://github.com/Gaisberg/streamnzb/commit/25bda56d7212ce3b6e8eb64ddaf3f62b168f1b20))
+
 ## [5.16.1](https://github.com/Gaisberg/streamnzb/compare/v5.16.0...v5.16.1) (2026-09-02)
 
 
